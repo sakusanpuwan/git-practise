@@ -5,6 +5,9 @@
 **Location**: London
 
 **Hobbies**:
+    - 3D-Printing
+    - Painting
+    - Coding
     - Running
     - Watching films
     - Board games
